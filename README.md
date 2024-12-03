@@ -1,10 +1,10 @@
-#<ins>MetaQ</ins>#
+#MetaQ
 
 *MetaQ for VirindiTank and Asheron's Call - Reach out to Jiggiwatt on Discord for questions, support, or feedback.*
 
 **Download the MetaQv4.0.1.zip file and see README.PDF for more info**
 
-#Roadmap#
+##Roadmap
 1. Make the 'Edit Queue' functionality more intuitive, including better messaging (e.g. confirm clearing queue)
 2. Allow for more functionality to be used via the Chaos Helper UI when MetaQ is not running (i.e. when one of the queued metas is in progress)
 3. Deprecate chat commands - The design concessions required to accomodate chat commands limits functionality too much. This will make Chaos Helper a firm requirement to use MetaQ
