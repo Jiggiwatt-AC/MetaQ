@@ -993,7 +993,7 @@ MetaQueueStart
 i
 26
 i
-2
+3
 TABLE
 2
 k
@@ -1005,8 +1005,30 @@ s
 e
 s
 getfellowshipisleader[]==1
+TABLE
+2
+K
+V
+n
+n
+2
+i
+2
 s
 /me will be the leader of this group. Starting Lugian Assault.
+i
+7
+TABLE
+2
+k
+v
+n
+n
+1
+s
+e
+s
+setgvar[RalliedChars,listcreate[]]
 s
 MetaQueueStart
 i
@@ -3078,7 +3100,7 @@ True
 i
 1
 s
-Lugian Assault
+LugianAssault
 s
 Looting
 i
