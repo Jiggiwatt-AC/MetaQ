@@ -24,7 +24,7 @@ K
 V
 n
 n
-6
+5
 i
 7
 TABLE
@@ -37,20 +37,7 @@ n
 s
 e
 s
-$NexusTieChar=`Jiggi-Mage`
-i
-7
-TABLE
-2
-k
-v
-n
-n
-1
-s
-e
-s
-$NexusTieType=`Secondary`
+$NexusTies=dictcreate[`Jiggi-Mage`,`Secondary`,`Magical Mike`,`Secondary`]
 i
 7
 TABLE
