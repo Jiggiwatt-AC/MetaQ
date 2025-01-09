@@ -812,7 +812,7 @@ LootOnlyRareCorpses
 s
 v
 s
-False
+True
 i
 12
 TABLE
@@ -3396,7 +3396,7 @@ EnableLooting
 s
 v
 s
-False
+True
 s
 Virindi Rescue
 i
@@ -3798,7 +3798,7 @@ EnableLooting
 s
 v
 s
-False
+True
 i
 12
 TABLE

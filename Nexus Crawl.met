@@ -167,7 +167,7 @@ n
 s
 e
 s
-$LootProfile=`Farming - Trophies.utl`
+$LootProfile=`Farming.utl`
 s
 ***SETTINGS***
 i
@@ -829,7 +829,7 @@ LootOnlyRareCorpses
 s
 v
 s
-False
+True
 i
 8
 TABLE
@@ -961,7 +961,7 @@ n
 s
 e
 s
-`IMPORTANT: `+$NexusTieChar+` must be part of the group and have a `+$NexusTieType+` portal tie to The Nexus.`
+`IMPORTANT: One of the following characters, `+dictkeys[$NexusTies]+`, must be part of the group and have a, `+dictvalues[$NexusTies]+`, (respectively) portal tie to The Nexus.`
 s
 MetaQueueStart
 i
@@ -2014,7 +2014,7 @@ EnableLooting
 s
 v
 s
-False
+True
 i
 12
 TABLE
@@ -2302,7 +2302,7 @@ EnableLooting
 s
 v
 s
-False
+True
 i
 12
 TABLE
